@@ -27,7 +27,8 @@
 			"idAttribute": "idfield",
 			"layerNameAttribute": "layer",
 			"url": "data/karlstad/response.json",
-			"title": "Sökresultat"
+			"title": "Sökresultat",
+      "markSearchableLayers": true
 		}
 	}, {
     "name": "splash",
